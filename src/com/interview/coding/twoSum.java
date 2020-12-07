@@ -1,3 +1,4 @@
+//Fastest possible method
 package com.interview.coding;
 
 import java.util.HashMap;
