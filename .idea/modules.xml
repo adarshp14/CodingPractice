@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/BinPackingProblem/BinPackingProblem.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/BinPackingProblem/BinPackingProblem.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/ClosestPairOfPoints/ClosestPairOfPoints.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/ClosestPairOfPoints/ClosestPairOfPoints.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/ClosestPoints/ClosestPoints.iml" filepath="$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/ClosestPoints/ClosestPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingPractice.iml" filepath="$PROJECT_DIR$/CodingPractice.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/FIbonacciDP/FIbonacciDP.iml" filepath="$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/FIbonacciDP/FIbonacciDP.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/Fibonacci/Fibonacci.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/HamiltonianCycle/HamiltonianCycle.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/HamiltonianCycle/HamiltonianCycle.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/HeadTailRecursion/HeadTailRecursion.iml" filepath="$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/HeadTailRecursion/HeadTailRecursion.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/KnapsackProblem/KnapsackProblem.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/KnapsackProblem/KnapsackProblem.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/KnightTour/KnightTour.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/KnightTour/KnightTour.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/MazeProblem/MazeProblem.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/MazeProblem/MazeProblem.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/NumericalIntegral/NumericalIntegral.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/NumericalIntegral/NumericalIntegral.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/QueensProblem/QueensProblem.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/QueensProblem/QueensProblem.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/Quickselect/Quickselect.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/Quickselect/Quickselect.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/RecursiveProblems/RecursiveProblems.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/RecursiveProblems/RecursiveProblems.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/RodCutting/RodCutting.iml" filepath="$USER_HOME$/Desktop/Algorithms/UPDATED_CONTENT/RodCutting/RodCutting.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/SubsetSumProblem/SubsetSumProblem.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/SubsetSumProblem/SubsetSumProblem.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/Sudoku/Sudoku.iml" filepath="$USER_HOME$/Desktop/Algorithms/PREVIOUS_VERSION_CONTENT/Sudoku/Sudoku.iml" />
+    </modules>
+  </component>
+</project>

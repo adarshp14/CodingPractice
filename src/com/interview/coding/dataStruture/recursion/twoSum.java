@@ -1,5 +1,5 @@
 //Fastest possible method
-package com.interview.coding;
+package com.interview.coding.dataStruture.recursion;
 
 import java.util.HashMap;
 import java.util.Map;
