@@ -1,9 +1,25 @@
 package com.interview.coding.dataStruture.dynamicProg;
 
+import java.util.Scanner;
+
 public class fibonacci {
   public static void main(String[] args) {
 
-    System.out.println(fibo(10));
+      Scanner sc=new Scanner(System.in);
+      int input=sc.nextInt();
+      while(input>0)
+      {
+          int classes=sc.nextInt();
+          int days=1;
+          while(classes-days<1)
+          {
+              classes-=days;
+
+              days++;
+          }
+          System.out.println(days+1);
+          input--;
+      }
   }
   public static int fibo(int n)
   {
