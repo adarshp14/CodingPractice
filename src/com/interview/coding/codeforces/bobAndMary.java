@@ -1,4 +1,4 @@
-package com.interview.coding.codeforces;
+//package com.interview.coding.codeforces;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -11,11 +11,12 @@ public class bobAndMary {
 
         Scanner sc = new Scanner(System.in);
         int in = sc.nextInt();
+        var test=5;
         while (in > 0) {
             int count = sc.nextInt();
-            ArrayList<Integer> inputs=new ArrayList<>();
+            ArrayList<Long> inputs=new ArrayList<>();
             for (int i = 0; i < count; i++) {
-                int temp=sc.nextInt();
+                long temp=sc.nextInt();
                 inputs.add(temp);
             }
             System.out.println(findWinner(inputs));
@@ -23,42 +24,50 @@ public class bobAndMary {
         }
     }
 
-    private static String findWinner(ArrayList<Integer> arr) {
+    private static String findWinner(ArrayList<Long> arr) {
         String alice="Alice";
         String bob="Bob";
         String tie="Tie";
-        int aliceScore=0;
-        int bobScore=0;
+        long aliceScore=0;
+        long bobScore=0;
         boolean aliceChance=true;
         boolean bobChance=false;
-        int chancesLeft=arr.size();
-        Collections.sort(arr);
-        for(int i:arr)
-        {
-            System.out.print(i+" ");
-        }
+        long chancesLeft=arr.size();
         while(chancesLeft>0)
         {
             if(aliceChance)
             {
-                int max=arr.get(chancesLeft-1);
-                arr.remove(chancesLeft-1);
+                long max=Integer.MIN_VALUE;
+                int index=0;
+                for(int i=0;i<arr.size();i++)
+                {
+                    if(arr.get(i)>max)
+                    {
+                        max= arr.get(i);
+                        index=i;
+                    }
+                }
+                arr.remove(index);
                 if(max%2==0)
                 {
                     aliceScore+=max;
                 }
-
-
-
-               aliceChance=false;
-               bobChance=true;
+                aliceChance=false;
+                bobChance=true;
             }
             else if(bobChance)
             {
-                int max=arr.get(chancesLeft-1);
-                arr.remove(chancesLeft-1);
-
-
+                long max=Integer.MIN_VALUE;
+                int index=0;
+                for(int i=0;i<arr.size();i++)
+                {
+                    if(arr.get(i)>max)
+                    {
+                        max= arr.get(i);
+                        index=i;
+                    }
+                }
+                arr.remove(index);
                 if(max%2!=0)
                 {
                     bobScore+=max;

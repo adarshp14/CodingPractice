@@ -31,6 +31,7 @@ public class maxSum {
         int sum=0;
 
         double test=Math.random();
+
         while(list2.get(count)%div==0) {
             sum += list2.get(count);
             if ((list2.get(count) / div) % div == 0)
